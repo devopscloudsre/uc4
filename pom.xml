@@ -3,10 +3,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.access</groupId>
-  <artifactId>LoginRegisterApp</artifactId>
+  <artifactId>uc4</artifactId>
   <packaging>war</packaging>
   <version>1.1</version>
-  <name>LoginRegisterApp Maven Webapp</name>
+  <name>uc4 Batch monitoring Webapp</name>
   <url>http://maven.apache.org</url>
   
   <dependencies>
@@ -31,6 +31,6 @@
   </dependencies>
   
   <build>
-    <finalName>LoginRegisterApp</finalName>
+    <finalName>uc4</finalName>
   </build>
 </project>
